@@ -3,3 +3,6 @@
 script.ipynb is the file used to convert and upscale files
 
 There are my local directories in script.ipynb
+
+ESRGAN:
+https://github.com/xinntao/ESRGAN
