@@ -1,1 +1,5 @@
-# ESRGAN_MoHAA_auto
+# Medal of Honor Allied Assault automated textures upscaling
+
+script.ipynb is the file used to convert and upscale files
+
+There are my local directories in script.ipynb
